@@ -1,15 +1,4 @@
 
-/**
- * Driver for WebServer class
- * 
- * 
- * CPSC 441
- * Assignment 3
- * 
- * @author 	Majid Ghaderi
- * @version 2024
- * 
- */
 
 
 import java.io.*;
