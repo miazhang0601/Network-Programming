@@ -1,14 +1,4 @@
-=7
-/**
- * WebClient Class
- * 
- * CPSC 441
- * Assignment 2
- * 
- * @author 	Majid Ghaderi
- * @version	2024
- *
- */
+
 
 import java.io.*;
 import java.net.Socket;
