@@ -1,13 +1,4 @@
 
-/**
- * StreamClient Class
- * 
- * CPSC 441
- * Assignment 1
- *
- */
-
-
 import java.util.logging.*;
 import java.util.*;
 import java.net.*;
